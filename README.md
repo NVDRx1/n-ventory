@@ -8,4 +8,4 @@ Hello World, I am NV 👋 and I enjoy 'learning'😵 by shipping 🛠️
 
 Core Focus: Yunera - A Hermes multi agentic AI (local first, cloud offload)
 
-[☕ Support NV on Ko-fi](https://ko-fi.com/nvdrx1)
+[![Support on ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T2C126KYIT)
